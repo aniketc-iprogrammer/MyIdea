@@ -1,0 +1,17 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, ‘7.0’
+
+target 'Idea' do
+pod 'AFNetworking', '~> 2.5'
+pod 'SDWebImage', '~>3.7'
+pod 'MBProgressHUD', '~> 0.9.1'
+end
+
+target 'IdeaTests' do
+
+end
+
+target 'IdeaUITests' do
+
+end
+
